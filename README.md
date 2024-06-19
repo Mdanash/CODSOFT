@@ -2,13 +2,8 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Project Structure](#project-structure)
 - [Tasks Overview](#tasks-overview)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -32,11 +27,9 @@ This repository contains the internship tasks assigned by CodSoft. Each task is 
 
 ## Requirements
 Each task may have its own set of requirements which are detailed in the respective task's `README.md` file. Common requirements include:
-- Python 3.x
+- Python
 - Necessary libraries (e.g., numpy, pandas, matplotlib, etc.)
 
-## Usage
-Each task directory contains its own set of instructions for running the code. Please refer to the `README.md` file within each task directory for detailed usage instructions.
 
 ## Contact
 For any questions or inquiries, please contact:
