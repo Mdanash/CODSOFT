@@ -12,7 +12,7 @@ This repository contains the internship tasks assigned by CodSoft. Each task is 
 ## Tasks Overview
 ### Task 1: [Movie Genre Classification]
 - **Objective:** This project is part of my internship at CodSoft, where I tackled the challenge of classifying movie genres using machine learning techniques. The objective of this task was to develop a model capable of accurately predicting the genre of a movie based on various features such as plot summary.
-- **Directory:** `[Task1/Movie_Genre_Prediction]`
+- **Directory:** `[Task1/Movie_Genre_Classification]`
 
 ## Requirements
 Each task may have its own set of requirements which are detailed in the respective task's `README.md` file. Common requirements include:
