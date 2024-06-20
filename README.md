@@ -13,6 +13,9 @@ This repository contains the internship tasks assigned by CodSoft. Each task is 
 ### Task 1: [Movie Genre Classification]
 - **Objective:** This project is part of my internship at CodSoft, where I tackled the challenge of classifying movie genres using machine learning techniques. The objective of this task was to develop a model capable of accurately predicting the genre of a movie based on various features such as plot summary.
 - **Directory:** `[Task1/Movie_Genre_Classification]`
+### Task 2: [Creditcard Fraud Detection]
+- **Objective:** This project aims to detect fraudulent credit card transactions using machine learning algorithms. We experiment with Logistic Regression and Decision Trees to classify transactions as fraudulent or legitimate,This project is part of my internship at CodSoft.
+- **Directory:** `[Task1/Movie_Genre_Classification]`
 
 ## Requirements
 Each task may have its own set of requirements which are detailed in the respective task's `README.md` file. Common requirements include:
