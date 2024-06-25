@@ -1,4 +1,4 @@
-# CodSoft Internship Tasks
+# CodSoft Internship - Machine Learning Tasks
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -16,6 +16,9 @@ This repository contains the internship tasks assigned by CodSoft. Each task is 
 ### Task 2: [Creditcard Fraud Detection]
 - **Objective:** This project aims to detect fraudulent credit card transactions using machine learning algorithms. We experiment with Logistic Regression and Decision Trees to classify transactions as fraudulent or legitimate,This project is part of my internship at CodSoft.
 - **Directory:** `[TASKS/Task_2(CREDIT_CARD_FRAUD_DETECTION)]`
+### Task 3: [Customer Churn Prediction]
+- **Objective:** This Project aims to building a model to predict customer churn for a subscription-based service or business. The model uses historical customer data, including features like usage behavior and customer demographics. The code explores different machine learning algorithms such as Logistic Regression, Random Forests, and Gradient Boosting to predict churn.,This project is part of my internship at CodSoft.
+- **Directory:** `[TASKS/Task-3(CUSTOMER CHURN PREDICTION)]`
 
 ## Requirements
 Each task may have its own set of requirements which are detailed in the respective task's `README.md` file. Common requirements include:
