@@ -43,7 +43,7 @@ Each task may have its own set of requirements which are detailed in the respect
 ## Contact
 For any questions or inquiries, please contact:
 - Mail(mohamedanash0404@gmail.com)
-- Linkedin(www.linkedin.com/in/mohamed-anash-97a311289)
+- Linkedin(www.linkedin.com/in/mohamed-anash)
 
 ---
 
